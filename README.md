@@ -108,7 +108,7 @@ python sentiment_analysis.py
 ## 🔮 Future Enhancements
 - Real-time feedback collection via forms  
 - Advanced ML models (Logistic Regression, BERT)  
-- Interactive dashboards using Streamlit or Power BI  
+- Interactive dashboards using Streamlit 
 - Automated CSAT score tracking over time  
 
 ## 👤 Author

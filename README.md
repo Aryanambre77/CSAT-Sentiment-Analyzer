@@ -53,10 +53,15 @@ A software services organization wants to:
 ## 📂 Project Structure
 Case Study/
 └── Sentiment Analysis/
+
 ├── data/ # Customer feedback dataset
+
 ├── sentiment_analysis.py # Core sentiment analysis logic
+
 ├── dashboard/ # Visualization and reporting layer
+
 ├── requirements.txt # Project dependencies
+
 └── README.md # Project documentation
 
 ---
